@@ -76,7 +76,7 @@ This repository tracks all historical deals for **Top One Futures** published on
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T12:48:11Z (auto, hourly)
+Last synced: 2026-10-29T14:03:04Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
