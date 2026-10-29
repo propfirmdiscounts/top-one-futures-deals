@@ -1,11 +1,65 @@
 # Top One Futures - Deal History
 
-> This repository will be automatically populated by the hourly sync workflow.
+Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
-**Firm page:** https://propfirmdiscount.com/prop-firm/top-one-futures/
+**Prop firm page:** https://propfirmdiscount.com/prop-firm/top-one-futures/
 
-**Standing discount code:** PFD (60%)
+**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+
+Use discount code **PFD** to get **60%** on Top One Futures challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Top One Futures evaluation accounts.
 
 ---
 
-Last synced: Never (waiting for first sync)
+## Latest Deal
+
+### Top One Futures - X-Daily Spark starts at $39
+
+**Published:** 2026-10-23  
+**Offer ends:** Limited time  
+**Discount:** Only $39  
+**Scope:** X-Daily Spark, Evaluation, Funded Account, Activation Fee  
+
+**Code:** PFD  
+
+**Deal page:** https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/
+
+---
+
+## Deal History
+
+Total deals tracked: **12**
+
+### 2026 (10 deals)
+
+| Date Published | Title | Discount | Expires | Deal Link |
+|---|---|---|---|---|
+| 2026-10-23 | X-Daily Spark starts at $39 | Only $39 | Limited time | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
+| 2026-10-04 | 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation | 60% | Limited time | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
+| 2026-09-01 | Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing | None | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
+| 2026-07-13 | 50% Off Elite Daily and 40% Off Instant Funding Entry Cost | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) |
+| 2026-03-31 | 1-Year Anniversary Deals: 50% Off Instant Sim Funded and 40% Off Other Evaluations | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/) |
+| 2026-03-02 | 50% Discount On Elite Daily Challenges Up To $100K | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) |
+| 2026-02-19 | 45% Off Additional Evaluations and 35% Off Instant Funded Accounts | 45% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/) |
+| 2026-02-19 | 60% Off First S2F PRO or Ignite Account Purchase | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-first-account/) |
+| 2026-02-10 | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) |
+| 2026-02-04 | 60% Off First Order and 15 Account Cap Update | 60% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-february-update-60-percent-off/) |
+
+### 2025 (2 deals)
+
+| Date Published | Title | Discount | Expires | Deal Link |
+|---|---|---|---|---|
+| 2025-12-02 | Black November: 57.5% OFF All Challenges | 57% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-57-5-off/) |
+| 2025-11-21 | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) |
+
+---
+
+## About This Repository
+
+This repository tracks all historical deals for **Top One Futures** published on PropFirmDiscount.com. Updated hourly via automated sync.
+
+**Data source:** PropFirmDiscount.com  
+**Prop firm profile:** https://propfirmdiscount.com/prop-firm/top-one-futures/  
+
+---
+
+Last synced: 2026-10-29T04:53:55Z (auto, hourly)
