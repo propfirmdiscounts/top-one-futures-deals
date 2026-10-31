@@ -1,206 +1,254 @@
 [
   {
+    "prop_firm": "Top One Futures",
+    "prop_firm_slug": "top-one-futures",
+    "standing_code": "PFD",
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 13014,
     "title": "X-Daily Spark starts at $39",
-    "offer_type": "coupon",
+    "date_published": "2026-10-23",
+    "date_exp": "Limited time",
     "discount_value": "Only $39",
+    "last_verified": "2026-10-23",
+    "offer_type": "coupon",
     "scope": [
       "X-Daily Spark, Evaluation, Funded Account, Activation Fee"
     ],
-    "date_published": "2026-10-23",
-    "date_exp": "Limited time",
-    "last_verified": "2026-10-23",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 12820,
     "title": "60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation",
-    "offer_type": "coupon",
+    "date_published": "2026-10-04",
+    "date_exp": "Limited time",
     "discount_value": "60%",
+    "last_verified": "2026-10-04",
+    "offer_type": "coupon",
     "scope": [
       "Elite Daily, Ignite Instant Funding, Activation Fees"
     ],
-    "date_published": "2026-10-04",
-    "date_exp": "Limited time",
-    "last_verified": "2026-10-04",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 12636,
     "title": "Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing",
-    "offer_type": "deal",
+    "date_published": "2026-09-01",
+    "date_exp": "Ended",
     "discount_value": null,
+    "last_verified": "2026-09-01",
+    "offer_type": "deal",
     "scope": [
       "Elite Access Bogo, Ignite Access, Elite Daily, Evaluation Accounts, Instant Funding"
     ],
-    "date_published": "2026-09-01",
-    "date_exp": "Ended",
-    "last_verified": "2026-09-01",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 12635,
     "title": "50% Off Elite Daily and 40% Off Instant Funding Entry Cost",
-    "offer_type": "coupon",
+    "date_published": "2026-07-13",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-07-13",
+    "offer_type": "coupon",
     "scope": [
       "Elite Daily Accounts, Elite Access Accounts, Instant Funding Accounts"
     ],
-    "date_published": "2026-07-13",
-    "date_exp": "Ended",
-    "last_verified": "2026-07-13",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 11614,
     "title": "1-Year Anniversary Deals: 50% Off Instant Sim Funded and 40% Off Other Evaluations",
-    "offer_type": "coupon",
+    "date_published": "2026-03-31",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-03-31",
+    "offer_type": "coupon",
     "scope": [
       "Instant Sim Funded, Elite Daily, Standard Accounts"
     ],
-    "date_published": "2026-03-31",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-31",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 11313,
     "title": "50% Discount On Elite Daily Challenges Up To $100K",
-    "offer_type": "deal",
+    "date_published": "2026-03-02",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-03-02",
+    "offer_type": "deal",
     "scope": [
       "Elite Daily Account, Up To $100K"
     ],
-    "date_published": "2026-03-02",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-02",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 11213,
     "title": "45% Off Additional Evaluations and 35% Off Instant Funded Accounts",
-    "offer_type": "coupon",
+    "date_published": "2026-02-19",
+    "date_exp": "Ended",
     "discount_value": "45%",
+    "last_verified": "2026-02-19",
+    "offer_type": "coupon",
     "scope": [
       "Ignite, S2F Pro, Instant Funded, 1-Step Elite, Additional Accounts"
     ],
-    "date_published": "2026-02-19",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-19",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 11212,
     "title": "60% Off First S2F PRO or Ignite Account Purchase",
-    "offer_type": "coupon",
+    "date_published": "2026-02-19",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-02-19",
+    "offer_type": "coupon",
     "scope": [
       "S2F Pro, Ignite, New Traders, First Account"
     ],
-    "date_published": "2026-02-19",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-19",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-first-account/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 11127,
     "title": "Valentine's Day Special: Up to 60% Off Challenge Pricing",
-    "offer_type": "coupon",
+    "date_published": "2026-02-10",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-02-10",
+    "offer_type": "coupon",
     "scope": [
       "First Purchases, Additional Purchases, Ignite, Pro, Instant Funded, 1-Step Elite"
     ],
-    "date_published": "2026-02-10",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-10",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 10915,
     "title": "60% Off First Order and 15 Account Cap Update",
-    "offer_type": "deal",
+    "date_published": "2026-02-04",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-02-04",
+    "offer_type": "deal",
     "scope": [
       "First Orders, S2F Pro, Ignite, I.f. Models"
     ],
-    "date_published": "2026-02-04",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-04",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-february-update-60-percent-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 10094,
     "title": "Black November: 57.5% OFF All Challenges",
-    "offer_type": "deal",
+    "date_published": "2025-12-02",
+    "date_exp": "Ended",
     "discount_value": "57%",
+    "last_verified": "2025-12-02",
+    "offer_type": "deal",
     "scope": [
       "All Futures Challenges (Tradovate & Projectx)."
     ],
-    "date_published": "2025-12-02",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-02",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-57-5-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "deal_id": 9947,
     "title": "Black Friday Sale: 57.5% OFF All Accounts + Bonus",
-    "offer_type": "coupon",
+    "date_published": "2025-11-21",
+    "date_exp": "Ended",
     "discount_value": "57%",
+    "last_verified": "2025-11-21",
+    "offer_type": "coupon",
     "scope": [
       "All Evaluation Models (Elite, Instant Sim Funded, S2F Pro)."
     ],
-    "date_published": "2025-11-21",
-    "date_exp": "Ended",
-    "last_verified": "2025-11-21",
     "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/",
-    "prop_firm": "Top One Futures",
-    "prop_firm_slug": "top-one-futures",
-    "standing_code": "PFD",
-    "code": "PFD"
+    "code": "PFD",
+    "code_state": "standing"
   }
 ]
