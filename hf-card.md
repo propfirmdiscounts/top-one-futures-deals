@@ -72,7 +72,7 @@ Total deals tracked: **12**
 | 2026-03-02 | 50% Discount On Elite Daily Challenges Up To $100K | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) |
 | 2026-02-19 | 45% Off Additional Evaluations and 35% Off Instant Funded Accounts | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/) |
 | 2026-02-19 | 60% Off First S2F PRO or Ignite Account Purchase | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-first-account/) |
-| 2026-02-10 | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) |
+| 2026-02-10 | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) |
 | 2026-02-04 | 60% Off First Order and 15 Account Cap Update | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-february-update-60-percent-off/) |
 
 ### 2025 (2 deals)
@@ -80,7 +80,7 @@ Total deals tracked: **12**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2025-12-02 | Black November: 57.5% OFF All Challenges | 57% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-57-5-off/) |
-| 2025-11-21 | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) |
+| 2025-11-21 | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) |
 
 ---
 
