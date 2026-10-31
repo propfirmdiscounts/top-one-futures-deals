@@ -62,25 +62,25 @@ Total deals tracked: **12**
 
 ### 2026 (10 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-10-23 | X-Daily Spark starts at $39 | Only $39 | Limited time | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
-| 2026-10-04 | 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation | 60% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
-| 2026-09-01 | Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
-| 2026-07-13 | 50% Off Elite Daily and 40% Off Instant Funding Entry Cost | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) |
-| 2026-03-31 | 1-Year Anniversary Deals: 50% Off Instant Sim Funded and 40% Off Other Evaluations | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/) |
-| 2026-03-02 | 50% Discount On Elite Daily Challenges Up To $100K | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) |
-| 2026-02-19 | 45% Off Additional Evaluations and 35% Off Instant Funded Accounts | 45% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/) |
-| 2026-02-19 | 60% Off First S2F PRO or Ignite Account Purchase | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-first-account/) |
-| 2026-02-10 | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) |
-| 2026-02-04 | 60% Off First Order and 15 Account Cap Update | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-february-update-60-percent-off/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-10-23 | X-Daily Spark starts at $39 | Only $39 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
+| 2026-10-04 | 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
+| 2026-09-01 | Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
+| 2026-07-13 | 50% Off Elite Daily and 40% Off Instant Funding Entry Cost | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) |
+| 2026-03-31 | 1-Year Anniversary Deals: 50% Off Instant Sim Funded and 40% Off Other Evaluations | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/) |
+| 2026-03-02 | 50% Discount On Elite Daily Challenges Up To $100K | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) |
+| 2026-02-19 | 45% Off Additional Evaluations and 35% Off Instant Funded Accounts | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/) |
+| 2026-02-19 | 60% Off First S2F PRO or Ignite Account Purchase | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-first-account/) |
+| 2026-02-10 | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) |
+| 2026-02-04 | 60% Off First Order and 15 Account Cap Update | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-february-update-60-percent-off/) |
 
 ### 2025 (2 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-02 | Black November: 57.5% OFF All Challenges | 57% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-57-5-off/) |
-| 2025-11-21 | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-02 | Black November: 57.5% OFF All Challenges | 57% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-57-5-off/) |
+| 2025-11-21 | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) |
 
 ---
 
@@ -107,6 +107,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
