@@ -1,44 +1,62 @@
 ---
 license: other
+pretty_name: Top One Futures Discount Code
 configs:
 - config_name: top-one-futures-deals
   data_files:
   - split: data
     path: datasets/top-one-futures-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - top-one-futures
 ---
 
-# Top One Futures - Discount Codes & Deal History
+# Top One Futures Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-23, Top One Futures deals run up to 60% OFF with code PFD, which works any time — the newest is **X-Daily Spark starts at $39**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/top-one-futures/
+- Code: PFD
+- Discount: Up to 60% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-23
+- Trustpilot: 4.8/5 (5257 reviews)
+- Activate: https://propfirmdiscount.com/go/toponefutures
+- Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+## Current Top One Futures deal: X-Daily Spark starts at $39
 
-Use discount code **PFD** to get **60% off** on Top One Futures challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Top One Futures evaluation accounts.
+- Published: 2026-10-23
+- Offer ends: Limited time
+- Offer: Only $39
+- Scope: X-Daily Spark, Evaluation, Funded Account, Activation Fee
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/
+
+## Top One Futures discount code FAQ
+
+**What is the Top One Futures discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 60% off Top One Futures challenges and accounts.
+
+**Does the Top One Futures discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Top One Futures deal?**
+
+**X-Daily Spark starts at $39** — published 2026-10-23. Offer ends: Limited time. The offer is Only $39.
 
 ---
 
-## Latest Deal
-
-### Top One Futures - X-Daily Spark starts at $39
-
-**Published:** 2026-10-23  
-**Offer ends:** Limited time  
-**Discount:** Only $39  
-**Scope:** X-Daily Spark, Evaluation, Funded Account, Activation Fee  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **12**
 
@@ -66,19 +84,20 @@ Total deals tracked: **12**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Top One Futures** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Top One Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/top-one-futures/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/top-one-futures/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
