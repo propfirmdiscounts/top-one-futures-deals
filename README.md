@@ -47,7 +47,7 @@ Total deals tracked: **12**
 |---|---|---|---|---|
 | 2026-10-23 | X-Daily Spark starts at $39 | Only $39 | Limited time | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
 | 2026-10-04 | 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation | 60% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
-| 2026-09-01 | Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing | N/A | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
+| 2026-09-01 | Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
 | 2026-07-13 | 50% Off Elite Daily and 40% Off Instant Funding Entry Cost | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) |
 | 2026-03-31 | 1-Year Anniversary Deals: 50% Off Instant Sim Funded and 40% Off Other Evaluations | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/) |
 | 2026-03-02 | 50% Discount On Elite Daily Challenges Up To $100K | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) |
@@ -75,27 +75,27 @@ This repository mirrors every deal **Top One Futures** has published on PropFirm
 
 ## Fields in `datasets/top-one-futures-deals.json`
 
-One row per deal, and every row answers a query on its own: it carries the
-firm, the firm's code and the rate that code gives, this deal's own rate,
-and both links a reader needs. Fields appear in this order in the file.
+One row per deal. The first fields are the observation exactly as the
+PropFirmDiscount API returns it; the firm's own code fields and the
+links are appended after, in the order below.
 
 | Field | Meaning |
 |---|---|
+| `deal_id` | The deal's id on PropFirmDiscount. |
+| `title` | The deal's headline. |
+| `offer_type` | The kind of offer as recorded on the site. |
+| `discount_value` | How this deal is stated on the site, in whatever form the firm uses: a percentage (`50%`), a price (`$39`), a BOGO (`Buy 1 Get 1`), a freebie (`Free Reset`). Not the code's rate. |
+| `scope` | What the deal covers. |
+| `date_published` | The date this deal went live. |
+| `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `last_verified` | The date this deal's details were last checked. |
+| `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row because it belongs to the firm rather than to the dated deal on that row. |
 | `standing_discount` | The rate `standing_code` gives. It is not `discount_value` when this deal is a separate promotion. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `deal_id` | The deal's id on PropFirmDiscount. |
-| `title` | The deal's headline. |
-| `date_published` | The date this deal went live. |
-| `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
-| `discount_value` | The discount of **this deal**, not of the code. |
-| `last_verified` | The date this deal's details were last checked. |
-| `offer_type` | The kind of offer as recorded on the site. |
-| `scope` | What the deal covers. |
-| `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
 | `code_state` | `standing` where `code` is present. |
 
