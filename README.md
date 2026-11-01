@@ -1,6 +1,6 @@
 # Top One Futures Discount Code
 
-As of 2026-10-23, Top One Futures deals run up to 60% OFF with code PFD, which works any time — the newest is **X-Daily Spark starts at $39**.
+As of 2026-10-23, Top One Futures deals run up to 60% OFF with code PFD, which works any time — the newest is X-Daily Spark starts at $39.
 
 - Code: PFD
 - Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
