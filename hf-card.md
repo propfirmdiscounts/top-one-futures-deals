@@ -17,9 +17,9 @@ tags:
   - top-one-futures
 ---
 
-# Top One Futures Discount Code
+# Top One Futures - Discount Codes & Deal History
 
-As of 2026-10-23, Top One Futures deals run up to 60% OFF with code PFD, which works any time — the newest is X-Daily Spark starts at $39.
+As of 2026-11-02, Top One Futures deals run up to 60% OFF with code PFD, which works any time — the newest is Up to 65% off bundles, Ignite and Elite.
 
 - Code: PFD
 - Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
@@ -31,14 +31,15 @@ As of 2026-10-23, Top One Futures deals run up to 60% OFF with code PFD, which w
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Top One Futures deal: X-Daily Spark starts at $39
+## Current Top One Futures deal: Up to 65% off bundles, Ignite and Elite
 
-- Published: 2026-10-23
+- Published: 2026-11-02
 - Offer ends: Limited time
-- Offer: Only $39
-- Scope: X-Daily Spark, Evaluation, Funded Account, Activation Fee
+- Offer: 65% off
+- Event: Black Friday
+- Scope: Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/
+- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/
 
 ## Top One Futures discount code FAQ
 
@@ -52,18 +53,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Top One Futures deal?**
 
-**X-Daily Spark starts at $39** — published 2026-10-23. Offer ends: Limited time. The offer is Only $39.
+**Up to 65% off bundles, Ignite and Elite** — published 2026-11-02. Offer ends: Limited time. The offer is 65% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **12**
+Total deals tracked: **13**
 
-### 2026 (10 deals)
+### 2026 (11 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | Up to 65% off bundles, Ignite and Elite | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
 | 2026-10-23 | X-Daily Spark starts at $39 | Only $39 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
 | 2026-10-04 | 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
 | 2026-09-01 | Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |

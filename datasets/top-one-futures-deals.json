@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13117,
+    "title": "Up to 65% off bundles, Ignite and Elite",
+    "offer_type": "deal",
+    "discount_value": "65%",
+    "scope": [
+      "Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/",
+    "prop_firm": "Top One Futures",
+    "prop_firm_slug": "top-one-futures",
+    "standing_code": "PFD",
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/toponefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13014,
     "title": "X-Daily Spark starts at $39",
     "offer_type": "coupon",
