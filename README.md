@@ -1,12 +1,12 @@
 # Top One Futures - Discount Codes & Deal History
 
-As of 2026-11-02, Top One Futures deals run up to 60% OFF with code PFD, which works any time — the newest is Up to 65% off bundles, Ignite and Elite.
+As of 2026-11-02, Top One Futures deals run up to 65% OFF with code PFD, which works any time — the newest is Up to 65% off bundles, Ignite and Elite.
 
 - Code: PFD
-- Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
+- Discount: Up to 65% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
-- Trustpilot: 4.8/5 (5297 reviews)
+- Trustpilot: 4.8/5 (5340 reviews)
 - Activate: https://propfirmdiscount.com/go/toponefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
@@ -26,7 +26,7 @@ As of 2026-11-02, Top One Futures deals run up to 60% OFF with code PFD, which w
 
 **What is the Top One Futures discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 60% off Top One Futures challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 65% off Top One Futures challenges and accounts.
 
 **Does the Top One Futures discount code expire?**
 
