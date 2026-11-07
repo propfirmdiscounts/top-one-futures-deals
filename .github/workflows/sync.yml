@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: top-one-futures-discount-codes
+  HF_NAMESPACE: toponefutures
+  HF_REPO_NAME: top-one-futures-deals
   FIRM_SLUG: top-one-futures
   DEALSTORE_ID: 182
   FIRM_NAME: Top One Futures
