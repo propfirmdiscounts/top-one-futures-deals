@@ -2,7 +2,7 @@
   {
     "deal_id": 13117,
     "title": "Up to 65% off bundles, Ignite and Elite",
-    "offer_type": "deal",
+    "offer_type": "coupon",
     "discount_value": "65%",
     "scope": [
       "Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees"
@@ -134,7 +134,7 @@
   {
     "deal_id": 11313,
     "title": "50% Discount On Elite Daily Challenges Up To $100K",
-    "offer_type": "deal",
+    "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
       "Elite Daily Account, Up To $100K"
