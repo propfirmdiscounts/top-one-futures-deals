@@ -1,9 +1,9 @@
 # Top One Futures - Discount Codes & Deal History
 
-As of 2026-11-02, Top One Futures deals run up to 65% OFF with code PFD, which works any time — the newest is Up to 65% off bundles, Ignite and Elite.
+As of 2026-11, Top One Futures deals run 65% OFF with code PFD, which works any time — the newest is Up to 65% off bundles, Ignite and Elite.
 
 - Code: PFD
-- Discount: Up to 65% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
+- Discount: 65% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 4.8/5 (5395 reviews)
@@ -12,7 +12,7 @@ As of 2026-11-02, Top One Futures deals run up to 65% OFF with code PFD, which w
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Top One Futures deal: Up to 65% off bundles, Ignite and Elite
+## Current Top One Futures deal: Up to 65% off bundles, Ignite and Elite with code PFD
 
 - Published: 2026-11-02
 - Offer ends: Limited time
@@ -26,7 +26,7 @@ As of 2026-11-02, Top One Futures deals run up to 65% OFF with code PFD, which w
 
 **What is the Top One Futures discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 65% off Top One Futures challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 65% off Top One Futures challenges and accounts.
 
 **Does the Top One Futures discount code expire?**
 
@@ -34,7 +34,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Top One Futures deal?**
 
-**Up to 65% off bundles, Ignite and Elite** — published 2026-11-02. Offer ends: Limited time. The offer is 65% off.
+**Up to 65% off bundles, Ignite and Elite with code PFD** — published 2026-11-02. Offer ends: Limited time. The offer is 65% off.
 
 ---
 
@@ -46,24 +46,24 @@ Total deals tracked: **13**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-02 | Up to 65% off bundles, Ignite and Elite | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
-| 2026-10-23 | X-Daily Spark starts at $39 | Only $39 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
-| 2026-10-04 | 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
-| 2026-09-01 | Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
-| 2026-07-13 | 50% Off Elite Daily and 40% Off Instant Funding Entry Cost | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) |
-| 2026-03-31 | 1-Year Anniversary Deals: 50% Off Instant Sim Funded and 40% Off Other Evaluations | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/) |
-| 2026-03-02 | 50% Discount On Elite Daily Challenges Up To $100K | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) |
-| 2026-02-19 | 45% Off Additional Evaluations and 35% Off Instant Funded Accounts | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/) |
-| 2026-02-19 | 60% Off First S2F PRO or Ignite Account Purchase | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-first-account/) |
-| 2026-02-10 | Valentine's Day Special: Up to 60% Off Challenge Pricing | 60% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) |
-| 2026-02-04 | 60% Off First Order and 15 Account Cap Update | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-february-update-60-percent-off/) |
+| 2026-11-02 | Top One Futures: Up to 65% off bundles, Ignite and Elite with code PFD | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
+| 2026-10-23 | Top One Futures: X-Daily Spark starts at $39 with code PFD | Only $39 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
+| 2026-10-04 | Top One Futures: 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
+| 2026-09-01 | Top One Futures: Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
+| 2026-07-13 | Top One Futures: 50% Off Elite Daily and 40% Off Instant Funding Entry Cost with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) |
+| 2026-03-31 | Top One Futures: 1-Year Anniversary Deals: 50% Off Instant Sim Funded and 40% Off Other Evaluations with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-1-year-anniversary-discount/) |
+| 2026-03-02 | Top One Futures: 50% Discount On Elite Daily Challenges Up To $100K with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-elite-daily-account/) |
+| 2026-02-19 | Top One Futures: 45% Off Additional Evaluations and 35% Off Instant Funded Accounts with code PFD | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-45-off-additional-accounts/) |
+| 2026-02-19 | Top One Futures: 60% Off First S2F PRO or Ignite Account Purchase with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-first-account/) |
+| 2026-02-10 | Top One Futures: Valentine's Day Special: Up to 60% Off Challenge Pricing with code PFD | 60% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-valentines-day-promotion/) |
+| 2026-02-04 | Top One Futures: 60% Off First Order and 15 Account Cap Update with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-february-update-60-percent-off/) |
 
 ### 2025 (2 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-02 | Black November: 57.5% OFF All Challenges | 57% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-57-5-off/) |
-| 2025-11-21 | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) |
+| 2025-12-02 | Top One Futures: Black November: 57.5% OFF All Challenges with code PFD | 57% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-57-5-off/) |
+| 2025-11-21 | Top One Futures: Black Friday Sale: 57.5% OFF All Accounts + Bonus with code PFD | 57% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) |
 
 ---
 
