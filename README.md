@@ -7,10 +7,11 @@ As of 2026-11, Top One Futures deals run 65% OFF with code PFD, which works any 
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 4.8/5 (5395 reviews)
-- Activate: https://propfirmdiscount.com/go/toponefutures
-- Firm page: https://propfirmdiscount.com/prop-firm/top-one-futures/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/top-one-futures-deals](https://github.com/propfirmdiscounts/top-one-futures-deals)
+- Activate: [https://propfirmdiscount.com/go/toponefutures](https://propfirmdiscount.com/go/toponefutures)
+- Firm page: [https://propfirmdiscount.com/prop-firm/top-one-futures/](https://propfirmdiscount.com/prop-firm/top-one-futures/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Top One Futures deal: Up to 65% off bundles, Ignite and Elite with code PFD
 
@@ -20,7 +21,7 @@ As of 2026-11, Top One Futures deals run 65% OFF with code PFD, which works any 
 - Event: Black Friday
 - Scope: Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/
+- Deal page: [https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/)
 
 ## Top One Futures discount code FAQ
 
@@ -71,9 +72,9 @@ Total deals tracked: **13**
 
 This repository mirrors every deal **Top One Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/top-one-futures/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/top-one-futures/](https://propfirmdiscount.com/prop-firm/top-one-futures/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/top-one-futures-deals.json`
 
