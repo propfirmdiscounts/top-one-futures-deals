@@ -1,0 +1,6 @@
+title: "Top One Futures - Discount Codes & Deal History"
+description: "As of November 2026, Top One Futures deals offer 65% OFF with code PFD, which can be applied on the checkout page anytime."
+url: "https://propfirmdiscounts.github.io"
+baseurl: "/top-one-futures-deals"
+plugins:
+  - jekyll-seo-tag
