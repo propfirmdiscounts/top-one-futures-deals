@@ -1,17 +1,17 @@
 # Top One Futures - Discount Codes & Deal History
 
-As of November 2026, Top One Futures deals offer 65% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Top One Futures discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "Up to 65% off bundles, Ignite and Elite with code PFD".
 
 - Code: PFD
 - Discount: 65% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 4.8/5 (5395 reviews)
-- GitHub repository: [https://github.com/propfirmdiscounts/top-one-futures-deals](https://github.com/propfirmdiscounts/top-one-futures-deals)
-- Activate: [https://propfirmdiscount.com/go/toponefutures](https://propfirmdiscount.com/go/toponefutures)
-- Firm page: [https://propfirmdiscount.com/prop-firm/top-one-futures/](https://propfirmdiscount.com/prop-firm/top-one-futures/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Top One Futures Deals Repository](https://github.com/propfirmdiscounts/top-one-futures-deals)
+- Activate: [Activate Top One Futures Discount Code](https://propfirmdiscount.com/go/toponefutures)
+- Firm page: [Top One Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/top-one-futures/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Top One Futures API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Top One Futures deal: Up to 65% off bundles, Ignite and Elite with code PFD
 
@@ -21,7 +21,7 @@ As of November 2026, Top One Futures deals offer 65% OFF with code PFD, which ca
 - Event: Black Friday
 - Scope: Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/)
+- Deal page: [Top One Futures Deal Page](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/)
 
 ## Top One Futures discount code FAQ
 
@@ -72,9 +72,9 @@ Total deals tracked: **13**
 
 This repository mirrors every deal **Top One Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/top-one-futures/](https://propfirmdiscount.com/prop-firm/top-one-futures/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Top One Futures Profile](https://propfirmdiscount.com/prop-firm/top-one-futures/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/top-one-futures-deals.json`
 
@@ -117,4 +117,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
