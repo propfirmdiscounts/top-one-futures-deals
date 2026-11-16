@@ -42,10 +42,76 @@
           "@type": "ListItem",
           "position": 3,
           "name": {{ page.title | default: site.title | jsonify }},
-          "item": "https://propfirmdiscounts.github.io/{{ page.repo_name | default: site.github.repository_name }}/"
+          "item": "https://propfirmdiscounts.github.io/top-one-futures-deals/"
         }
       ]
     }
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the Top One Futures discount code?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PFD. It is verified by PropFirmDiscount.com and takes 60% off Top One Futures challenges and accounts."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the Top One Futures discount code expire?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much is the current Top One Futures deal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Up to 65% off bundles, Ignite and Elite with code PFD — published 2026-11-02. Offer ends: Limited time. The offer is 65% off."
+            }
+        }
+    ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Top One Futures Discount Codes & Deal History Dataset",
+    "description": "As of November 2026, the verified Top One Futures discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is \\",
+    "url": "https://propfirmdiscounts.github.io/top-one-futures-deals/",
+    "sameAs": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
+    "license": "https://propfirmdiscount.com",
+    "creator": {
+        "@type": "Organization",
+        "name": "PropFirmDiscount",
+        "url": "https://propfirmdiscount.com"
+    },
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/propfirmdiscounts/top-one-futures-deals/main/datasets/top-one-futures-deals.json"
+        }
+    ],
+    "temporalCoverage": "2024/2026",
+    "variableMeasured": [
+        "deal_id",
+        "title",
+        "discount_value",
+        "standing_code",
+        "standing_discount",
+        "date_published",
+        "date_exp",
+        "post_url"
+    ]
+}
     </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
