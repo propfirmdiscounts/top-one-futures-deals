@@ -1,6 +1,6 @@
 # Top One Futures - Discount Codes & Deal History
 
-As of 2026-11, Top One Futures deals run 65% OFF with code PFD, which works any time — the newest is Up to 65% off bundles, Ignite and Elite.
+As of November 2026, Top One Futures deals offer 65% OFF with code PFD, which can be applied on the checkout page anytime.
 
 - Code: PFD
 - Discount: 65% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
