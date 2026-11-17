@@ -1,4 +1,4 @@
-# Top One Futures Discount Code & Deal History
+# Top One Futures Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Top One Futures discount code is PFD — 65% OFF, which can be applied on the checkout page anytime. The newest is "Up to 65% off bundles, Ignite and Elite with code PFD".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified Top One Futures discount code is PFD — 65% O
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
 - Trustpilot: [4.8/5 (5423 reviews)](https://www.trustpilot.com/review/toponefutures.com)
-- GitHub repository: [Top One Futures Deals Repository](https://github.com/propfirmdiscounts/top-one-futures-deals)
+- GitHub repository: [Top One Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/top-one-futures-deals)
 - Activate: [Activate Top One Futures Discount Code](https://propfirmdiscount.com/go/toponefutures)
 - Firm page: [Top One Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/top-one-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -23,7 +23,7 @@ As of November 2026, the verified Top One Futures discount code is PFD — 65% O
 - Code: PFD
 - Deal page: [Top One Futures Deal Page](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/)
 
-## Top One Futures Discount Code & Deals FAQ
+## Top One Futures Discount Code & Deals History FAQ
 
 **What is the Top One Futures discount code?**
 
@@ -39,7 +39,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Top One Futures Deal History
+## Top One Futures Deals History
 
 Total deals tracked: **13**
 
@@ -68,7 +68,7 @@ Total deals tracked: **13**
 
 ---
 
-## About the Top One Futures Deals Dataset
+## About the Top One Futures Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Top One Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -76,7 +76,7 @@ This repository mirrors every deal **Top One Futures** has published on PropFirm
 - Prop firm profile: [Top One Futures Profile](https://propfirmdiscount.com/prop-firm/top-one-futures/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Top One Futures Deal Dataset: Field Definitions
+## Top One Futures Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
