@@ -49,7 +49,7 @@ Total deals tracked: **14**
 |---|---|---|---|---|---|
 | 2026-11-23 | Top One Futures: Elite Access $39, Second Free (code PFD) | 70% off | 2026-11-30 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/) |
 | 2026-11-02 | Top One Futures: Up to 65% off bundles, Ignite and Elite (code PFD) | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
-| 2026-10-23 | Top One Futures: X-Daily Spark starts at $39 (code PFD) | Only $39 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
+| 2026-10-23 | Top One Futures: X-Daily Spark starts at $39 (code PFD) | Only $39 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
 | 2026-10-04 | Top One Futures: 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
 | 2026-09-01 | Top One Futures: Up to 50% Off and BOGO Allocation Packages Starting from $39 Challenge Pricing (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-off-bogo-promo/) |
 | 2026-07-13 | Top One Futures: 50% Off Elite Daily and 40% Off Instant Funding Entry Cost (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-50-40-off-summer-deals/) |
