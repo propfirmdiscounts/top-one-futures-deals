@@ -1,33 +1,33 @@
 # Top One Futures Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Top One Futures discount code is PFD — 65% OFF, which can be applied on the checkout page anytime. The newest is "Up to 65% off bundles, Ignite and Elite (code PFD)".
+As of November 2026, the verified Top One Futures discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "Elite Access $39, Second Free (code PFD)".
 
 - Code: PFD
-- Discount: 65% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
+- Discount: 70% off (what the code takes off the firm's newest deal; it applies to every Top One Futures deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-02
-- Trustpilot: [4.8/5 (5469 reviews)](https://www.trustpilot.com/review/toponefutures.com)
+- Last deal published: 2026-11-23
+- Trustpilot: [4.8/5 (5515 reviews)](https://www.trustpilot.com/review/toponefutures.com)
 - GitHub repository: [Top One Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/top-one-futures-deals)
 - Activate: [Activate Top One Futures Discount Code](https://propfirmdiscount.com/go/toponefutures)
 - Firm page: [Top One Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/top-one-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Top One Futures API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Top One Futures deal: Up to 65% off bundles, Ignite and Elite (code PFD)
+## Latest Top One Futures deal: Elite Access $39, Second Free (code PFD)
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: 65% off
+- Published: 2026-11-23
+- Offer ends: 2026-11-30
+- Offer: 70% off
 - Event: Black Friday
-- Scope: Bundles Of 5+ Accounts, Ignite Instant Funding, Elite Daily, Elite Access Activation Fees
+- Scope: Ignite, Elite Daily, Elite Access Accounts
 - Code: PFD
-- Deal page: [Top One Futures Deal Page](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/)
+- Deal page: [Top One Futures Deal Page](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/)
 
 ## Top One Futures Discount Code & Deals History FAQ
 
 **What is the Top One Futures discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 65% off Top One Futures challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 70% off Top One Futures challenges and accounts.
 
 **Does the Top One Futures discount code expire?**
 
@@ -35,18 +35,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Top One Futures deal?**
 
-**Up to 65% off bundles, Ignite and Elite (code PFD)** — published 2026-11-02. Offer ends: Limited time. The offer is 65% off.
+**Elite Access $39, Second Free (code PFD)** — published 2026-11-23. Offer ends: 2026-11-30. The offer is 70% off.
 
 ---
 
 ## Top One Futures Deals History
 
-Total deals tracked: **13**
+Total deals tracked: **14**
 
-### 2026 (11 deals)
+### 2026 (12 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-23 | Top One Futures: Elite Access $39, Second Free (code PFD) | 70% off | 2026-11-30 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/) |
 | 2026-11-02 | Top One Futures: Up to 65% off bundles, Ignite and Elite (code PFD) | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
 | 2026-10-23 | Top One Futures: X-Daily Spark starts at $39 (code PFD) | Only $39 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-x-daily-spark-start-39/) |
 | 2026-10-04 | Top One Futures: 60% Off Elite Daily and Instant Funding Accounts Plus 20% Off Activation (code PFD) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-60-off-elite-instant-funding/) |
